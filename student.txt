@@ -1,3 +1,4 @@
 Student Management System
 Student 1: Ali Khan | CMS: 1001 | Program: BS DFCS
 Student 2: Ahmed Raza | CMS: 1002 | Program: BS DFCS
+Student 3: Hassan Ahmed | CMS: 1003 | Program: BS DFCS
